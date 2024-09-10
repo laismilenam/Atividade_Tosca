@@ -10,12 +10,19 @@ Veja o vídeo onde explicamos toda a automação que desenvolvemos:
 📋 Descrição do Projeto
 
 Criar Teste Automatizado que Execute um Login
-	Abrir https://demowebshop.tricentis.com/
-	Clicar Em Login
-	Preencher E-mail
-	Preencher Password
-	Clicar em Login
-	Validar que o Login Ocorreu com sucesso
+
+ Abrir https://demowebshop.tricentis.com/
+	
+ Clicar Em Login
+	
+ Preencher E-mail
+	
+ Preencher Password
+	
+ Clicar em Login
+
+ Validar que o Login Ocorreu com sucesso
  
 📩 Contato
+
 Dúvidas ou feedback? Entre em contato: laismilenam@hotmail.com
